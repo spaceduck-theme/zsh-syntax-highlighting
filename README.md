@@ -28,12 +28,13 @@ Download using the [GitHub .zip download](https://github.com/bigpick/spaceduck-c
 2. Then, you need to have installed the ["fish shell-like syntax highlighting for ZSH", zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting).
     * Just follow the [installation](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) steps for install.
 3. Add this theme's relevant settings to your `~/.zshrc`.
-    * Copy the contents of the [spaceduck_zsh_syntax_highlighting.bash](https://github.com/bigpick/spaceduck-zsh-syntax-highlighting/blob/main/spaceduck_zsh_syntax_highlighting.bash) file, and paste into your zshrc fil at `~/.zshrc`:
+    * Copy the contents of the [spaceduck_zsh_syntax_highlighting.bash](https://github.com/bigpick/spaceduck-zsh-syntax-highlighting/blob/main/spaceduck_zsh_syntax_highlighting.bash) file, and paste into your zshrc file at `~/.zshrc`:
         
         ```bash
-        cat ./spaceduck_zsh_syntax_highlighting.bash | pbcopy
+        # cat + copy
+        cat ./spaceduck_zsh_syntax_highlighting.bash # | pbcopy (if on macOS)
         vim ~/.zshrc 
-        # paste before you activate the zsh-syntax-highlighting
+        # paste before you activate the zsh-syntax-highlighting, see note below
         ```
     * **Note**: If you installed zsh-syntax-highlighting [via git](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#in-your-zshrc), or [site wide](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#system-wide-installation), be sure to paste the contents of the file _before_ the following line in your `~/.zshrc` file:
 
