@@ -31,14 +31,14 @@ ZSH_HIGHLIGHT_STYLES[function]='fg=#5ccc96'
 ZSH_HIGHLIGHT_STYLES[command]='fg=#5ccc96'
 ZSH_HIGHLIGHT_STYLES[precommand]='fg=#5ccc96,italic'
 ZSH_HIGHLIGHT_STYLES[autodirectory]='fg=#e39400,italic'
-ZSH_HIGHLIGHT_STYLES[single-hyphen-option]='fg=#e39400'
-ZSH_HIGHLIGHT_STYLES[double-hyphen-option]='fg=#e39400'
+ZSH_HIGHLIGHT_STYLES[single-hyphen-option]='fg=#b3a1e6'
+ZSH_HIGHLIGHT_STYLES[double-hyphen-option]='fg=#b3a1e6'
 ZSH_HIGHLIGHT_STYLES[back-quoted-argument]='fg=#b3a1e6'
 ### Keywords
 ### Built ins
-ZSH_HIGHLIGHT_STYLES[builtin]='fg=#00a3cc'
-ZSH_HIGHLIGHT_STYLES[reserved-word]='fg=#00a3cc'
-ZSH_HIGHLIGHT_STYLES[hashed-command]='fg=#00a3cc'
+ZSH_HIGHLIGHT_STYLES[builtin]='fg=#5ccc96'
+ZSH_HIGHLIGHT_STYLES[reserved-word]='fg=#5ccc96'
+ZSH_HIGHLIGHT_STYLES[hashed-command]='fg=#5ccc96'
 ### Punctuation
 ZSH_HIGHLIGHT_STYLES[commandseparator]='fg=#ce6f8f'
 ZSH_HIGHLIGHT_STYLES[command-substitution-delimiter]='fg=#ce6f8f'
@@ -50,13 +50,13 @@ ZSH_HIGHLIGHT_STYLES[back-dollar-quoted-argument]='fg=#ce6f8f'
 ### Serializable / Configuration Languages
 ### Storage
 ### Strings
-ZSH_HIGHLIGHT_STYLES[command-substitution-quoted]='fg=#f2ce00'
-ZSH_HIGHLIGHT_STYLES[command-substitution-delimiter-quoted]='fg=#f2ce00'
-ZSH_HIGHLIGHT_STYLES[single-quoted-argument]='fg=#f2ce00'
+ZSH_HIGHLIGHT_STYLES[command-substitution-quoted]='fg=#00a3cc'
+ZSH_HIGHLIGHT_STYLES[command-substitution-delimiter-quoted]='fg=#00a3cc'
+ZSH_HIGHLIGHT_STYLES[single-quoted-argument]='fg=#00a3cc'
 ZSH_HIGHLIGHT_STYLES[single-quoted-argument-unclosed]='fg=#e33400'
-ZSH_HIGHLIGHT_STYLES[double-quoted-argument]='fg=#f2ce00'
+ZSH_HIGHLIGHT_STYLES[double-quoted-argument]='fg=#00a3cc'
 ZSH_HIGHLIGHT_STYLES[double-quoted-argument-unclosed]='fg=#e33400'
-ZSH_HIGHLIGHT_STYLES[rc-quote]='fg=#f2ce00'
+ZSH_HIGHLIGHT_STYLES[rc-quote]='fg=#00a3cc'
 ### Variables
 ZSH_HIGHLIGHT_STYLES[dollar-quoted-argument]='fg=#ecf0c1'
 ZSH_HIGHLIGHT_STYLES[dollar-quoted-argument-unclosed]='fg=#e33400'
