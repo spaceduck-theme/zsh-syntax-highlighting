@@ -53,6 +53,14 @@ Download using the [GitHub .zip download](https://github.com/bigpick/spaceduck-c
 
     ... and confirm it's working.
 
+## Team
+
+This theme is maintained by the following person(s) in addition to being helped by a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+
+| [![bigpick](https://avatars1.githubusercontent.com/u/9803299?v=4&s=70)](https://github.com/bigpick) |
+| --- |
+| [bigpick](https://github.com/bigpick) |
+
 ## License
 
 [MIT License](./LICENSE)
